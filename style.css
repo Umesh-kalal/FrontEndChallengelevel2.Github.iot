@@ -1,0 +1,44 @@
+nev
+{
+    margin: 100px;
+    
+    
+}
+nev input
+{
+    width: 350px;
+    margin: -3px;
+}
+h1{
+    margin: 100px;
+}
+
+button
+{
+    background-color: blue;
+    color: white;
+
+}
+#libraryForm.clicked
+{
+    border: 2px solid grey;
+    color: red;
+}
+.remove
+{
+    margin: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: red;
+}
+.book
+{
+    margin-left: 100px;
+    margin-right: 120px;
+    padding-left: 10px;
+
+    border: 1px solid grey;
+    
+    
+}
+
